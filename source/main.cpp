@@ -26,6 +26,7 @@ int autenticar();
 int main(void)
 {
     setup();
+    menu();
     Usuario usuarios[100];
     return 0;
 }
